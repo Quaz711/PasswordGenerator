@@ -1,2 +1,1 @@
-# PasswordGenerator
-A website that generates a random password for a user
+# Password Generator Starter Code
