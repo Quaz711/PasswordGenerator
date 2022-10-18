@@ -1,36 +1,30 @@
-# Password Generator Starter Code
-# A webpage that meets accessibility standards
+# Random Password Generator Website
 
 A marketing agency wants a codebase that follows accessibility standards so that their site is optimized for search engines
 
-![This is a screenshot showing the top of the client's website.](./assets/images/Top.png)
+![This is a screenshot showing what you would see upon first visiting the website.](./assets/images/First Load.png)
 
-![This is a screenshot showing the middle of the client's website.](./assets/images/Middle.png)
+![This is a screenshot showing what happens after you click "Generate Password".](./assets/images/Upon Click.png)
 
-![This is a screenshot showing the bottom of the client's website.](./assets/images/Bottom.png)
+![This is a screenshot showing the confirmation of successful entry.](./assets/images/1st Confirmation.png)
 
-## View the source code; Update HTML to semantic elements
+![This is a screenshot showing an invalid entry.](./assets/images/Invalid Entry.png)
 
-* Upon first look of the HTML code there were no semantic elements. I removed div and some classes that were not needed to add semantic 
-elements such as header, section, article, aside, and footer.
+![This is a screenshot showing the question criteria for the password.](./assets/images/Question Criteria.png)
 
-## View the structure of the HTML elements; Follows a logical structure independent of styling and positioning
+![This is a screenshot showing if no criteria was selected during questioning.](./assets/images/Invalid Criteria.png)
 
-* Upon first look of the HTML and CSS code some indentation seemed out of order and lines ran off the coding screen so some organizing 
-and comments were made to make it clearer to read and comprehend.
+![This is a screenshot showing all criteria has been met and random password will be generated.](./assets/images/Confirmation Generating.png)
 
-## View image elements; Accessible alt attributes
+![This is a screenshot showing the actual random generated password.](./assets/images/Generated Password.png)
 
-* Upon first look of the HTML there were no alt attributes, so alt attributes were added describbing the images in the event they did not load.
+## Viewed the source code; Started implementing functionality
 
+* Upon first look of the javascript code there were no functions to generate a random password. I created several functions to process inputs that may be available for change and updating futuristically as well.
 
-## View heading attributes; They fall in sequential order
+## Error detection; Making sure code would not crash
 
-* Link to CSS file was put below the title declaration.
-
-## View title element; Find it has a concise and descriptive title
-
-* Changed the original title "website" to "Horiseon" to reflect the company.
+* I implemented several error checking spots to make sure the code would not crash and caring through with its purpose.
 
 ## Additional added items for accessibility
 
