@@ -12,7 +12,7 @@ A marketing agency wants a codebase that follows accessibility standards so that
 
 ![This is a screenshot showing the question criteria for the password.](./assets/images/Question-Criteria.png)
 
-![This is a screenshot showing if no criteria was selected during questioning.](./assets/images/Invalid-Criteria.png)
+![This is a screenshot showing if no criteria was selected during questioning.](./assets/images/Invalid-Criterias.png)
 
 ![This is a screenshot showing all criteria has been met and random password will be generated.](./assets/images/Confirmation-Generating.png)
 
