@@ -28,9 +28,9 @@ A marketing agency wants a codebase that follows accessibility standards so that
 
 # Links to deployed application
 
-## GitHub repository for Challenge One
+## GitHub repository for Module Challenge Three
 [Github Repo](https://github.com/Quaz711/PasswordGenerator.git)
 
 
-## Live website for Challenge One
+## Live website for Module Challenge Three
 [Live Website](https://quaz711.github.io/PasswordGenerator/)
