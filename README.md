@@ -1,6 +1,6 @@
 # Random Password Generator Website
 
-A marketing agency wants a codebase that follows accessibility standards so that their site is optimized for search engines
+A website that can generate a random password within user selected criteria.
 
 ![This is a screenshot showing what you would see upon first visiting the website.](./assets/images/First-Load.png)
 
